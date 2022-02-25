@@ -1,0 +1,14 @@
+C:\Users\aserl\Desktop\My portfolio\C#\do while loop\do while loop\bin\Debug\netcoreapp3.1\do while loop.exe
+C:\Users\aserl\Desktop\My portfolio\C#\do while loop\do while loop\bin\Debug\netcoreapp3.1\do while loop.deps.json
+C:\Users\aserl\Desktop\My portfolio\C#\do while loop\do while loop\bin\Debug\netcoreapp3.1\do while loop.runtimeconfig.json
+C:\Users\aserl\Desktop\My portfolio\C#\do while loop\do while loop\bin\Debug\netcoreapp3.1\do while loop.runtimeconfig.dev.json
+C:\Users\aserl\Desktop\My portfolio\C#\do while loop\do while loop\bin\Debug\netcoreapp3.1\do while loop.dll
+C:\Users\aserl\Desktop\My portfolio\C#\do while loop\do while loop\bin\Debug\netcoreapp3.1\do while loop.pdb
+C:\Users\aserl\Desktop\My portfolio\C#\do while loop\do while loop\obj\Debug\netcoreapp3.1\do while loop.csproj.AssemblyReference.cache
+C:\Users\aserl\Desktop\My portfolio\C#\do while loop\do while loop\obj\Debug\netcoreapp3.1\do while loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aserl\Desktop\My portfolio\C#\do while loop\do while loop\obj\Debug\netcoreapp3.1\do while loop.AssemblyInfoInputs.cache
+C:\Users\aserl\Desktop\My portfolio\C#\do while loop\do while loop\obj\Debug\netcoreapp3.1\do while loop.AssemblyInfo.cs
+C:\Users\aserl\Desktop\My portfolio\C#\do while loop\do while loop\obj\Debug\netcoreapp3.1\do while loop.csproj.CoreCompileInputs.cache
+C:\Users\aserl\Desktop\My portfolio\C#\do while loop\do while loop\obj\Debug\netcoreapp3.1\do while loop.dll
+C:\Users\aserl\Desktop\My portfolio\C#\do while loop\do while loop\obj\Debug\netcoreapp3.1\do while loop.pdb
+C:\Users\aserl\Desktop\My portfolio\C#\do while loop\do while loop\obj\Debug\netcoreapp3.1\do while loop.genruntimeconfig.cache

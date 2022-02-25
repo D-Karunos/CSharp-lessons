@@ -1,0 +1,14 @@
+C:\Users\aserl\Desktop\My portfolio\C#\Recurssion\Recurssion\bin\Debug\netcoreapp3.1\Recurssion.exe
+C:\Users\aserl\Desktop\My portfolio\C#\Recurssion\Recurssion\bin\Debug\netcoreapp3.1\Recurssion.deps.json
+C:\Users\aserl\Desktop\My portfolio\C#\Recurssion\Recurssion\bin\Debug\netcoreapp3.1\Recurssion.runtimeconfig.json
+C:\Users\aserl\Desktop\My portfolio\C#\Recurssion\Recurssion\bin\Debug\netcoreapp3.1\Recurssion.runtimeconfig.dev.json
+C:\Users\aserl\Desktop\My portfolio\C#\Recurssion\Recurssion\bin\Debug\netcoreapp3.1\Recurssion.dll
+C:\Users\aserl\Desktop\My portfolio\C#\Recurssion\Recurssion\bin\Debug\netcoreapp3.1\Recurssion.pdb
+C:\Users\aserl\Desktop\My portfolio\C#\Recurssion\Recurssion\obj\Debug\netcoreapp3.1\Recurssion.csproj.AssemblyReference.cache
+C:\Users\aserl\Desktop\My portfolio\C#\Recurssion\Recurssion\obj\Debug\netcoreapp3.1\Recurssion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aserl\Desktop\My portfolio\C#\Recurssion\Recurssion\obj\Debug\netcoreapp3.1\Recurssion.AssemblyInfoInputs.cache
+C:\Users\aserl\Desktop\My portfolio\C#\Recurssion\Recurssion\obj\Debug\netcoreapp3.1\Recurssion.AssemblyInfo.cs
+C:\Users\aserl\Desktop\My portfolio\C#\Recurssion\Recurssion\obj\Debug\netcoreapp3.1\Recurssion.csproj.CoreCompileInputs.cache
+C:\Users\aserl\Desktop\My portfolio\C#\Recurssion\Recurssion\obj\Debug\netcoreapp3.1\Recurssion.dll
+C:\Users\aserl\Desktop\My portfolio\C#\Recurssion\Recurssion\obj\Debug\netcoreapp3.1\Recurssion.pdb
+C:\Users\aserl\Desktop\My portfolio\C#\Recurssion\Recurssion\obj\Debug\netcoreapp3.1\Recurssion.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\aserl\Desktop\My portfolio\C#\9. Function pass by reference\9. Function pass by reference\bin\Debug\netcoreapp3.1\9. Function pass by reference.exe
+C:\Users\aserl\Desktop\My portfolio\C#\9. Function pass by reference\9. Function pass by reference\bin\Debug\netcoreapp3.1\9. Function pass by reference.deps.json
+C:\Users\aserl\Desktop\My portfolio\C#\9. Function pass by reference\9. Function pass by reference\bin\Debug\netcoreapp3.1\9. Function pass by reference.runtimeconfig.json
+C:\Users\aserl\Desktop\My portfolio\C#\9. Function pass by reference\9. Function pass by reference\bin\Debug\netcoreapp3.1\9. Function pass by reference.runtimeconfig.dev.json
+C:\Users\aserl\Desktop\My portfolio\C#\9. Function pass by reference\9. Function pass by reference\bin\Debug\netcoreapp3.1\9. Function pass by reference.dll
+C:\Users\aserl\Desktop\My portfolio\C#\9. Function pass by reference\9. Function pass by reference\bin\Debug\netcoreapp3.1\9. Function pass by reference.pdb
+C:\Users\aserl\Desktop\My portfolio\C#\9. Function pass by reference\9. Function pass by reference\obj\Debug\netcoreapp3.1\9. Function pass by reference.csproj.AssemblyReference.cache
+C:\Users\aserl\Desktop\My portfolio\C#\9. Function pass by reference\9. Function pass by reference\obj\Debug\netcoreapp3.1\9. Function pass by reference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aserl\Desktop\My portfolio\C#\9. Function pass by reference\9. Function pass by reference\obj\Debug\netcoreapp3.1\9. Function pass by reference.AssemblyInfoInputs.cache
+C:\Users\aserl\Desktop\My portfolio\C#\9. Function pass by reference\9. Function pass by reference\obj\Debug\netcoreapp3.1\9. Function pass by reference.AssemblyInfo.cs
+C:\Users\aserl\Desktop\My portfolio\C#\9. Function pass by reference\9. Function pass by reference\obj\Debug\netcoreapp3.1\9. Function pass by reference.csproj.CoreCompileInputs.cache
+C:\Users\aserl\Desktop\My portfolio\C#\9. Function pass by reference\9. Function pass by reference\obj\Debug\netcoreapp3.1\9. Function pass by reference.dll
+C:\Users\aserl\Desktop\My portfolio\C#\9. Function pass by reference\9. Function pass by reference\obj\Debug\netcoreapp3.1\9. Function pass by reference.pdb
+C:\Users\aserl\Desktop\My portfolio\C#\9. Function pass by reference\9. Function pass by reference\obj\Debug\netcoreapp3.1\9. Function pass by reference.genruntimeconfig.cache

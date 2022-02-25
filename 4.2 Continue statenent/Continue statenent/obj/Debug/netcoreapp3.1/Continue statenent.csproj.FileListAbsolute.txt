@@ -1,0 +1,14 @@
+C:\Users\aserl\Desktop\My portfolio\C#\Continue statenent\Continue statenent\bin\Debug\netcoreapp3.1\Continue statenent.exe
+C:\Users\aserl\Desktop\My portfolio\C#\Continue statenent\Continue statenent\bin\Debug\netcoreapp3.1\Continue statenent.deps.json
+C:\Users\aserl\Desktop\My portfolio\C#\Continue statenent\Continue statenent\bin\Debug\netcoreapp3.1\Continue statenent.runtimeconfig.json
+C:\Users\aserl\Desktop\My portfolio\C#\Continue statenent\Continue statenent\bin\Debug\netcoreapp3.1\Continue statenent.runtimeconfig.dev.json
+C:\Users\aserl\Desktop\My portfolio\C#\Continue statenent\Continue statenent\bin\Debug\netcoreapp3.1\Continue statenent.dll
+C:\Users\aserl\Desktop\My portfolio\C#\Continue statenent\Continue statenent\bin\Debug\netcoreapp3.1\Continue statenent.pdb
+C:\Users\aserl\Desktop\My portfolio\C#\Continue statenent\Continue statenent\obj\Debug\netcoreapp3.1\Continue statenent.csproj.AssemblyReference.cache
+C:\Users\aserl\Desktop\My portfolio\C#\Continue statenent\Continue statenent\obj\Debug\netcoreapp3.1\Continue statenent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aserl\Desktop\My portfolio\C#\Continue statenent\Continue statenent\obj\Debug\netcoreapp3.1\Continue statenent.AssemblyInfoInputs.cache
+C:\Users\aserl\Desktop\My portfolio\C#\Continue statenent\Continue statenent\obj\Debug\netcoreapp3.1\Continue statenent.AssemblyInfo.cs
+C:\Users\aserl\Desktop\My portfolio\C#\Continue statenent\Continue statenent\obj\Debug\netcoreapp3.1\Continue statenent.csproj.CoreCompileInputs.cache
+C:\Users\aserl\Desktop\My portfolio\C#\Continue statenent\Continue statenent\obj\Debug\netcoreapp3.1\Continue statenent.dll
+C:\Users\aserl\Desktop\My portfolio\C#\Continue statenent\Continue statenent\obj\Debug\netcoreapp3.1\Continue statenent.pdb
+C:\Users\aserl\Desktop\My portfolio\C#\Continue statenent\Continue statenent\obj\Debug\netcoreapp3.1\Continue statenent.genruntimeconfig.cache

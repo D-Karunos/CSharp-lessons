@@ -1,0 +1,14 @@
+C:\Users\aserl\Desktop\My portfolio\C#\10. Class\10. Class\obj\Debug\netcoreapp3.1\10. Class.csproj.AssemblyReference.cache
+C:\Users\aserl\Desktop\My portfolio\C#\10. Class\10. Class\obj\Debug\netcoreapp3.1\10. Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aserl\Desktop\My portfolio\C#\10. Class\10. Class\obj\Debug\netcoreapp3.1\10. Class.AssemblyInfoInputs.cache
+C:\Users\aserl\Desktop\My portfolio\C#\10. Class\10. Class\obj\Debug\netcoreapp3.1\10. Class.AssemblyInfo.cs
+C:\Users\aserl\Desktop\My portfolio\C#\10. Class\10. Class\obj\Debug\netcoreapp3.1\10. Class.csproj.CoreCompileInputs.cache
+C:\Users\aserl\Desktop\My portfolio\C#\10. Class\10. Class\bin\Debug\netcoreapp3.1\10. Class.exe
+C:\Users\aserl\Desktop\My portfolio\C#\10. Class\10. Class\bin\Debug\netcoreapp3.1\10. Class.deps.json
+C:\Users\aserl\Desktop\My portfolio\C#\10. Class\10. Class\bin\Debug\netcoreapp3.1\10. Class.runtimeconfig.json
+C:\Users\aserl\Desktop\My portfolio\C#\10. Class\10. Class\bin\Debug\netcoreapp3.1\10. Class.runtimeconfig.dev.json
+C:\Users\aserl\Desktop\My portfolio\C#\10. Class\10. Class\bin\Debug\netcoreapp3.1\10. Class.dll
+C:\Users\aserl\Desktop\My portfolio\C#\10. Class\10. Class\bin\Debug\netcoreapp3.1\10. Class.pdb
+C:\Users\aserl\Desktop\My portfolio\C#\10. Class\10. Class\obj\Debug\netcoreapp3.1\10. Class.dll
+C:\Users\aserl\Desktop\My portfolio\C#\10. Class\10. Class\obj\Debug\netcoreapp3.1\10. Class.pdb
+C:\Users\aserl\Desktop\My portfolio\C#\10. Class\10. Class\obj\Debug\netcoreapp3.1\10. Class.genruntimeconfig.cache

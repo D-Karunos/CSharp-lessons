@@ -1,0 +1,14 @@
+C:\Users\aserl\Desktop\My portfolio\C#\11. Constructor Destructor\11. Constructor Destructor\bin\Debug\netcoreapp3.1\11. Constructor Destructor.exe
+C:\Users\aserl\Desktop\My portfolio\C#\11. Constructor Destructor\11. Constructor Destructor\bin\Debug\netcoreapp3.1\11. Constructor Destructor.deps.json
+C:\Users\aserl\Desktop\My portfolio\C#\11. Constructor Destructor\11. Constructor Destructor\bin\Debug\netcoreapp3.1\11. Constructor Destructor.runtimeconfig.json
+C:\Users\aserl\Desktop\My portfolio\C#\11. Constructor Destructor\11. Constructor Destructor\bin\Debug\netcoreapp3.1\11. Constructor Destructor.runtimeconfig.dev.json
+C:\Users\aserl\Desktop\My portfolio\C#\11. Constructor Destructor\11. Constructor Destructor\bin\Debug\netcoreapp3.1\11. Constructor Destructor.dll
+C:\Users\aserl\Desktop\My portfolio\C#\11. Constructor Destructor\11. Constructor Destructor\bin\Debug\netcoreapp3.1\11. Constructor Destructor.pdb
+C:\Users\aserl\Desktop\My portfolio\C#\11. Constructor Destructor\11. Constructor Destructor\obj\Debug\netcoreapp3.1\11. Constructor Destructor.csproj.AssemblyReference.cache
+C:\Users\aserl\Desktop\My portfolio\C#\11. Constructor Destructor\11. Constructor Destructor\obj\Debug\netcoreapp3.1\11. Constructor Destructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aserl\Desktop\My portfolio\C#\11. Constructor Destructor\11. Constructor Destructor\obj\Debug\netcoreapp3.1\11. Constructor Destructor.AssemblyInfoInputs.cache
+C:\Users\aserl\Desktop\My portfolio\C#\11. Constructor Destructor\11. Constructor Destructor\obj\Debug\netcoreapp3.1\11. Constructor Destructor.AssemblyInfo.cs
+C:\Users\aserl\Desktop\My portfolio\C#\11. Constructor Destructor\11. Constructor Destructor\obj\Debug\netcoreapp3.1\11. Constructor Destructor.csproj.CoreCompileInputs.cache
+C:\Users\aserl\Desktop\My portfolio\C#\11. Constructor Destructor\11. Constructor Destructor\obj\Debug\netcoreapp3.1\11. Constructor Destructor.dll
+C:\Users\aserl\Desktop\My portfolio\C#\11. Constructor Destructor\11. Constructor Destructor\obj\Debug\netcoreapp3.1\11. Constructor Destructor.pdb
+C:\Users\aserl\Desktop\My portfolio\C#\11. Constructor Destructor\11. Constructor Destructor\obj\Debug\netcoreapp3.1\11. Constructor Destructor.genruntimeconfig.cache

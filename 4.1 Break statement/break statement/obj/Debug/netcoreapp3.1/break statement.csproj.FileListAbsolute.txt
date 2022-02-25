@@ -1,0 +1,14 @@
+C:\Users\aserl\Desktop\My portfolio\C#\break statement\break statement\bin\Debug\netcoreapp3.1\break statement.exe
+C:\Users\aserl\Desktop\My portfolio\C#\break statement\break statement\bin\Debug\netcoreapp3.1\break statement.deps.json
+C:\Users\aserl\Desktop\My portfolio\C#\break statement\break statement\bin\Debug\netcoreapp3.1\break statement.runtimeconfig.json
+C:\Users\aserl\Desktop\My portfolio\C#\break statement\break statement\bin\Debug\netcoreapp3.1\break statement.runtimeconfig.dev.json
+C:\Users\aserl\Desktop\My portfolio\C#\break statement\break statement\bin\Debug\netcoreapp3.1\break statement.dll
+C:\Users\aserl\Desktop\My portfolio\C#\break statement\break statement\bin\Debug\netcoreapp3.1\break statement.pdb
+C:\Users\aserl\Desktop\My portfolio\C#\break statement\break statement\obj\Debug\netcoreapp3.1\break statement.csproj.AssemblyReference.cache
+C:\Users\aserl\Desktop\My portfolio\C#\break statement\break statement\obj\Debug\netcoreapp3.1\break statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aserl\Desktop\My portfolio\C#\break statement\break statement\obj\Debug\netcoreapp3.1\break statement.AssemblyInfoInputs.cache
+C:\Users\aserl\Desktop\My portfolio\C#\break statement\break statement\obj\Debug\netcoreapp3.1\break statement.AssemblyInfo.cs
+C:\Users\aserl\Desktop\My portfolio\C#\break statement\break statement\obj\Debug\netcoreapp3.1\break statement.csproj.CoreCompileInputs.cache
+C:\Users\aserl\Desktop\My portfolio\C#\break statement\break statement\obj\Debug\netcoreapp3.1\break statement.dll
+C:\Users\aserl\Desktop\My portfolio\C#\break statement\break statement\obj\Debug\netcoreapp3.1\break statement.pdb
+C:\Users\aserl\Desktop\My portfolio\C#\break statement\break statement\obj\Debug\netcoreapp3.1\break statement.genruntimeconfig.cache

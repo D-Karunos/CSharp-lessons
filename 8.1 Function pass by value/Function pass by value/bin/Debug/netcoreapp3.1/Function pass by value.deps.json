@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Function pass by value/1.0.0": {
+        "runtime": {
+          "Function pass by value.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Function pass by value/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

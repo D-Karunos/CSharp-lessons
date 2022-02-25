@@ -1,0 +1,14 @@
+C:\Users\aserl\Desktop\My portfolio\C#\Function pass by value\Function pass by value\bin\Debug\netcoreapp3.1\Function pass by value.exe
+C:\Users\aserl\Desktop\My portfolio\C#\Function pass by value\Function pass by value\bin\Debug\netcoreapp3.1\Function pass by value.deps.json
+C:\Users\aserl\Desktop\My portfolio\C#\Function pass by value\Function pass by value\bin\Debug\netcoreapp3.1\Function pass by value.runtimeconfig.json
+C:\Users\aserl\Desktop\My portfolio\C#\Function pass by value\Function pass by value\bin\Debug\netcoreapp3.1\Function pass by value.runtimeconfig.dev.json
+C:\Users\aserl\Desktop\My portfolio\C#\Function pass by value\Function pass by value\bin\Debug\netcoreapp3.1\Function pass by value.dll
+C:\Users\aserl\Desktop\My portfolio\C#\Function pass by value\Function pass by value\bin\Debug\netcoreapp3.1\Function pass by value.pdb
+C:\Users\aserl\Desktop\My portfolio\C#\Function pass by value\Function pass by value\obj\Debug\netcoreapp3.1\Function pass by value.csproj.AssemblyReference.cache
+C:\Users\aserl\Desktop\My portfolio\C#\Function pass by value\Function pass by value\obj\Debug\netcoreapp3.1\Function pass by value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aserl\Desktop\My portfolio\C#\Function pass by value\Function pass by value\obj\Debug\netcoreapp3.1\Function pass by value.AssemblyInfoInputs.cache
+C:\Users\aserl\Desktop\My portfolio\C#\Function pass by value\Function pass by value\obj\Debug\netcoreapp3.1\Function pass by value.AssemblyInfo.cs
+C:\Users\aserl\Desktop\My portfolio\C#\Function pass by value\Function pass by value\obj\Debug\netcoreapp3.1\Function pass by value.csproj.CoreCompileInputs.cache
+C:\Users\aserl\Desktop\My portfolio\C#\Function pass by value\Function pass by value\obj\Debug\netcoreapp3.1\Function pass by value.dll
+C:\Users\aserl\Desktop\My portfolio\C#\Function pass by value\Function pass by value\obj\Debug\netcoreapp3.1\Function pass by value.pdb
+C:\Users\aserl\Desktop\My portfolio\C#\Function pass by value\Function pass by value\obj\Debug\netcoreapp3.1\Function pass by value.genruntimeconfig.cache

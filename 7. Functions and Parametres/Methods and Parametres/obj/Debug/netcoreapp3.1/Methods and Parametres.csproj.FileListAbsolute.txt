@@ -1,0 +1,14 @@
+C:\Users\aserl\Desktop\My portfolio\C#\Methods and Parametres\Methods and Parametres\bin\Debug\netcoreapp3.1\Methods and Parametres.exe
+C:\Users\aserl\Desktop\My portfolio\C#\Methods and Parametres\Methods and Parametres\bin\Debug\netcoreapp3.1\Methods and Parametres.deps.json
+C:\Users\aserl\Desktop\My portfolio\C#\Methods and Parametres\Methods and Parametres\bin\Debug\netcoreapp3.1\Methods and Parametres.runtimeconfig.json
+C:\Users\aserl\Desktop\My portfolio\C#\Methods and Parametres\Methods and Parametres\bin\Debug\netcoreapp3.1\Methods and Parametres.runtimeconfig.dev.json
+C:\Users\aserl\Desktop\My portfolio\C#\Methods and Parametres\Methods and Parametres\bin\Debug\netcoreapp3.1\Methods and Parametres.dll
+C:\Users\aserl\Desktop\My portfolio\C#\Methods and Parametres\Methods and Parametres\bin\Debug\netcoreapp3.1\Methods and Parametres.pdb
+C:\Users\aserl\Desktop\My portfolio\C#\Methods and Parametres\Methods and Parametres\obj\Debug\netcoreapp3.1\Methods and Parametres.csproj.AssemblyReference.cache
+C:\Users\aserl\Desktop\My portfolio\C#\Methods and Parametres\Methods and Parametres\obj\Debug\netcoreapp3.1\Methods and Parametres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aserl\Desktop\My portfolio\C#\Methods and Parametres\Methods and Parametres\obj\Debug\netcoreapp3.1\Methods and Parametres.AssemblyInfoInputs.cache
+C:\Users\aserl\Desktop\My portfolio\C#\Methods and Parametres\Methods and Parametres\obj\Debug\netcoreapp3.1\Methods and Parametres.AssemblyInfo.cs
+C:\Users\aserl\Desktop\My portfolio\C#\Methods and Parametres\Methods and Parametres\obj\Debug\netcoreapp3.1\Methods and Parametres.csproj.CoreCompileInputs.cache
+C:\Users\aserl\Desktop\My portfolio\C#\Methods and Parametres\Methods and Parametres\obj\Debug\netcoreapp3.1\Methods and Parametres.dll
+C:\Users\aserl\Desktop\My portfolio\C#\Methods and Parametres\Methods and Parametres\obj\Debug\netcoreapp3.1\Methods and Parametres.pdb
+C:\Users\aserl\Desktop\My portfolio\C#\Methods and Parametres\Methods and Parametres\obj\Debug\netcoreapp3.1\Methods and Parametres.genruntimeconfig.cache
